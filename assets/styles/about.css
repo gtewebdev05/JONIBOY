@@ -39,7 +39,7 @@ section{
    font-weight: 600;
 }
 .info-box span {
-      background: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+      background: linear-gradient(to right, #0E093B 5%, #291CB3 57%, #1E13B4 60%);
       background-clip: text;
       color: transparent;
       font-size: 2rem;
